@@ -1,5 +1,5 @@
 # simple-calendar
-A calendar app made using Angular
+A contacts list app made using Angular
 
 ## To run:
 ```bash
